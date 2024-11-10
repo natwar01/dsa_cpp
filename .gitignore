@@ -1,0 +1,12 @@
+# .gitignore example
+
+# Ignore node_modules for JavaScript/Node.js projects
+node_modules/
+
+# Ignore IDE specific files (e.g., VS Code settings)
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
